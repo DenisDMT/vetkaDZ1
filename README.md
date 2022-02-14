@@ -15,5 +15,5 @@
 
                             **Наш логотип:**
 
-     ![Snimok](/Denis/Snimok.jpg)
+     ![Snimok](9fa9de3fed54ce8b6a3bb4e3bc2a681a9e9bed48)
         
