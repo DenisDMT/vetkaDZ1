@@ -15,5 +15,5 @@
 
                             **Наш логотип:**
 
-     ![](/Users/denistitarenko/Documents/Git/Снимок 13.02.2022 в 20.37.jpg)
+     ![Snimok](/Users/denistitarenko/Documents/Git/Denis/Снимок.jpg)
         
