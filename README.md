@@ -15,5 +15,5 @@
 
                             **Наш логотип:**
 
-     ![Snimok](/Users/denistitarenko/Documents/Git/Denis/Снимок.jpg)
+     ![Snimok](/Users/denistitarenko/Documents/Git/Denis/Snimok.jpg)
         
